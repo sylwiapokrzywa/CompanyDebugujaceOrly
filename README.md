@@ -1,4 +1,4 @@
-Welcome to the Django Firm API project named "CompanyDebugujaceOrly"! This project was created for learning purposes of building an API using the Django framework
+Welcome to the Django project named "CompanyDebugujaceOrly"! This project was created for learning purposes of building an API using the Django framework
 and getting familiar with containerization technology using Docker. The project enables storing data about companies, their addresses, and opening hours.
 This project serves as an example of implementing a simple Django API that allows adding, editing, deleting, and retrieving information about companies along 
 with their addresses and opening hours. It utilizes basic Django ORM functionalities for managing data in the database.
